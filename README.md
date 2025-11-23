@@ -13,4 +13,12 @@ By the way, you can also change the color coding to match your preferences near 
 # <img src="images/console.png" alt="grblConsole screenshot" width="600"/>
 -->
 
-Done.
+**Install and Usage**
+
+* Install dependencies: 'pip install websockets'.
+
+* To install and use, click on 'grblConsole.py' from the file list above.  Then, click the download button as shown below.  Download somewhere on your computer.  Then, startup with in a console window with 'python grblConsole.py'.
+
+![grblConsole File Download](images/download.png)
+
+Enjoy
