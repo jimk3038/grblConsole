@@ -1,10 +1,10 @@
 # grblConsole
-Python Web Socket Console - Simple little python app that provides a network console to grblHAL.
+<h1>Python Web Socket Console</h1>
+<h2>Simple little python app that provides a network console to grblHAL.</h2>
 
-Simply edit the Python code to change 'GRBLHAL_WS_URL = "ws://grblHAL.local:81"' to match the IP number or network name to your networked grblHAL board.  By the way, you can also change the color coding to match your preferences near the top of the Python code too.
+Edit the Python code to change 'GRBLHAL_WS_URL = "ws://grblHAL.local:81"' to match the IP number or network name to your networked grblHAL board.  Note, the ':81' refers to port number used by grblHAL which seems to be 81 for web sockets.
 
-
-
+By the way, you can also change the color coding to match your preferences near the top of the Python code too.<br><br>
 
 ![grblConsole screenshot](images/console.png)
 
