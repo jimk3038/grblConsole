@@ -4,7 +4,7 @@
 
 Edit the Python code to change 'GRBLHAL_WS_URL = "ws://grblHAL.local:81"' to match the IP number or network name to your networked grblHAL board.  Note, the ':81' refers to port number used by grblHAL which seems to be 81 for web sockets.
 
-By the way, you can also change the color coding to match your preferences.  See the python comments near the top of the code instructions.<br><br>
+By the way, you can also change the color coding to match your preferences.  See the python comments near the top of the code for instructions.<br><br>
 
 ![grblConsole screenshot](images/console.png)
 
