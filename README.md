@@ -17,7 +17,7 @@ By the way, you can also change the color coding to match your preferences.  See
 
 * Install dependencies: 'pip install websockets'.
 
-* To install and use, click on 'grblConsole.py' from the file list above.  Then, click the download button as shown below.  Download somewhere on your computer.  Then, startup with in a console window with 'python grblConsole.py'.
+* To install app and run: click on 'grblConsole.py' from the file list above.  Then, click the download button as shown below.  Download somewhere on your computer.  Then, startup in a console window with 'python grblConsole.py'.  If your python code matches the network address of grblHAL you should see something like above.
 
 ![grblConsole File Download](images/download.png)
 
